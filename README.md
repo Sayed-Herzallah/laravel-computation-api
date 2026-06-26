@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  ![Node.js](https://img.shields.io/badge/Node.js-v18-green?logo=nodedotjs&style=for-the-badge) ![Express.js](https://img.shields.io/badge/Express.js-v4-black?logo=express&style=for-the-badge) ![PHP](https://img.shields.io/badge/PHP-v8-blue?logo=php&style=for-the-badge) ![Laravel](https://img.shields.io/badge/Laravel-v10-red?logo=laravel&style=for-the-badge) ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+  <img src="https://img.shields.io/badge/Node.js-v18-green?logo=nodedotjs&style=for-the-badge" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-v4-black?logo=express&style=for-the-badge" alt="Express.js" /> <img src="https://img.shields.io/badge/PHP-v8-blue?logo=php&style=for-the-badge" alt="PHP" /> <img src="https://img.shields.io/badge/Laravel-v10-red?logo=laravel&style=for-the-badge" alt="Laravel" /> <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
 </div>
 
 ---
